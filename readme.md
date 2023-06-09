@@ -4,7 +4,7 @@
 2. Grids & Gestures
 3. Physical Hypertext
 4. Twine
-5. [Cut-UP Poetry]
+5. [Cut-UP Poetry](https://mkarels.github.io/MakingWS/CutUpPoetry.jpeg)
 6. [Tracery bots](https://botsin.space/home)
 7. Scalar
 8. [P5 Poetics](https://mkarels.github.io/MakingWS/clickpoetry.html)
