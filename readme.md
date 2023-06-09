@@ -2,6 +2,7 @@
 
 ![BistyMakeThings](https://mkarels.github.io/MakingWS/BistyMakeThings.gif)
 
+**The Process:**
 1. [Sketches](https://mkarels.github.io/MakingWS/Sketch.jpeg)
 2. [Grids & Gestures](https://mkarels.github.io/MakingWS/GridsGestures.jpeg)
 3. [Physical Hypertext](https://mkarels.github.io/MakingWS/PhysicalHypertext.jpeg)
