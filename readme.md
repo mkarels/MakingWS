@@ -1,6 +1,6 @@
 ## Critical Making WS
 
-1. [Sketches](https://mkarels.github.io/MakingWS/blob/main/Sketch.jpeg)
+1. [Sketches](https://mkarels.github.io/MakingWS/Sketch.jpeg)
 2. Grids & Gestures
 3. Physical Hypertext
 4. Twine
